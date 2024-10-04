@@ -1,0 +1,15 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Large files
+ciliako2_concatenated.csv
+ciliako44_concatenated.csv
+shuffleset.csv
+cilia_smol_240524.csv
+continual2_concatenated_smol.csv
+longcilias_smol_240527.csv
+multitest_concatenated_smol.csv
+ruxcilia_smol_240524.csv
